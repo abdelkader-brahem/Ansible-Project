@@ -1,0 +1,4 @@
+config_path: Desktop/Ansible-Project/
+code_issue: 
+     domain: "localhost"
+     run_command: "YO!"  

@@ -1,0 +1,4 @@
+- name: test command with bash
+  with_items: code_issue
+  when: run_command is undefined 
+  command: "bash ./script.sh {{ code_issue['run_command']}} "
