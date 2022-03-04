@@ -1,3 +1,3 @@
 # Ansible-Project
-### to run playbook :
+### CMD :
 - ansible-playbook playbook-test.yml 
